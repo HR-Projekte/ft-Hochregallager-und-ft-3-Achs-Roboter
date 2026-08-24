@@ -2,3 +2,5 @@
 
 Das fertige Pad zur Aufnahme der Matrix-Tastatur:
 ![Das Keypad](../Bilder/keypad_70x78.jpg)
+
+[Die stl-Druckvorlage herunterladen](Keypad_70x78.stl)
