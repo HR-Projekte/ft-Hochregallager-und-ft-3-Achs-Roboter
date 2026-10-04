@@ -3,7 +3,7 @@ Projektübergreifende Dokumentationen für das fischertechnik Hochregallager den
 ## Menüaufbau beim Hochregallager und 3-Achs-Roboter
 
 Das Flussdiagramm zeigt den prinzipiellen Aufbau der menügeführten Bedienung von Hochregallager und 3-Achs-Roboter.
-  [Flussdiagramm „Menüaufbau“ anzeigen](Menue-Ablauf.pdf)
+Flussdiagramm [„Menüaufbau“](Menue-Ablauf.pdf) anzeigen
 
 ## Ablauf beim  gemeinsamen Automatisierungssystem
 für das Einlagern: [Schema Einlagern](Schema-Einlagern.jpg)  
