@@ -6,6 +6,6 @@ Das Flussdiagramm zeigt den prinzipiellen Aufbau der menügeführten Bedienung v
   [Flussdiagramm „Menüaufbau“ anzeigen](Menue-Ablauf.pdf)
 
 ## Ablauf beim  gemeinsamen Automatisierungssystem
-beim Einlagern: [Schema Einlagern](Schema-Einlagern.jpg)  
-beim Auslagern: [Schema Auslagern](Schema-Auslagern.jpg)
+für das Einlagern: [Schema Einlagern](Schema-Einlagern.jpg)  
+für das Auslagern: [Schema Auslagern](Schema-Auslagern.jpg)
 
