@@ -25,4 +25,4 @@ Die Funktionsschemata zeigen das Zusammenspiel von Hochregallager und 3-Achs-Rob
 
 ## Video
 Eine Vorstellung des Zusammenspiels von Hochregallager und 3-Achs-Roboter ist auf YouTube zu sehen:  
-[Video zum ft-Hochregallager-und-ft-3-Achs-Roboter](https://www.youtube.com/watch?v=2f_-ZYLpYPQ)
+[Video zum ft-Hochregallager-und-ft-3-Achs-Roboter](https://youtu.be/GNuP39d1gaE)
