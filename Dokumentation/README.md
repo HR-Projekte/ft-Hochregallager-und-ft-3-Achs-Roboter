@@ -6,6 +6,7 @@ Das Flussdiagramm zeigt den prinzipiellen Aufbau der menügeführten Bedienung v
 Flussdiagramm [„Menüaufbau“](Menue-Ablauf.pdf) anzeigen
 
 ## Ablauf beim  gemeinsamen Automatisierungssystem
-für das Einlagern: [Schema Einlagern](Schema-Einlagern.jpg)  
+für das Einlagern mit [Metallsensor](Schema-Einlagern.jpg)  
+für das Einlagern mit [Metallsensor und Lichtschranke](Schema-Einlagern-Metall-Plast.jpg)  
 für das Auslagern: [Schema Auslagern](Schema-Auslagern.jpg)
 
