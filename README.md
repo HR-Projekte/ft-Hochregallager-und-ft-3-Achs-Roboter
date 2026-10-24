@@ -18,10 +18,11 @@ Der 3-Achs-Roboter erkennt dieses Signal, holt das Teil ab und transportiert es 
 Umgekehrt kann der Roboter ein Teil am Umsetzer bereitstellen. Das Hochregallager erkennt das dort abgelegte Teil über einen Sensor und lagert es automatisch ein.
 
 ## Dokumentation
-Die Funktionsschemata zeigen das Zusammenspiel von Hochregallager und 3-Achs-Roboter beim Ein- und Auslagern von Teilen.
+Die Funktionsschemata zeigen das Zusammenspiel von Hochregallager und 3-Achs-Roboter beim Ein- und Auslagern von Teilen.  
 
-[Funktionsschema Einlagern](Dokumentation/Schema-Einlagern.jpg)  
-[Funktionsschema Auslagern](Dokumentation/Schema-Auslagern.jpg)
+* [Funktionsschema Einlagern](Dokumentation/Schema-Einlagern.jpg)  
+* [Funktionsschema Einlagern Metall und Plast](Dokumentation/Schema-Einlagern-Metall-Plast.jpg)  
+* [Funktionsschema Auslagern](Dokumentation/Schema-Auslagern.jpg)
 
 ## Video
 Eine Vorstellung des Zusammenspiels von Hochregallager und 3-Achs-Roboter ist auf YouTube zu sehen:  
