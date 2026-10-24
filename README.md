@@ -21,7 +21,7 @@ Umgekehrt kann der Roboter ein Teil am Umsetzer bereitstellen. Das Hochregallage
 Die Funktionsschemata zeigen das Zusammenspiel von Hochregallager und 3-Achs-Roboter beim Ein- und Auslagern von Teilen.  
 
 * [Funktionsschema Einlagern](Dokumentation/Schema-Einlagern.jpg)  
-* [Funktionsschema Einlagern Metall und Plast](Dokumentation/Schema-Einlagern-Metall-Plast.jpg)  
+* [Funktionsschema Einlagern Metall und Plast](Dokumentation/Schema-Einlagern-Metall-Plast.jpg) (Kunststoffteile aussortieren).  
 * [Funktionsschema Auslagern](Dokumentation/Schema-Auslagern.jpg)
 
 ## Video
